@@ -1,0 +1,17 @@
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\States-CardGame\States-CardGame\bin\Debug\netcoreapp3.1\States-CardGame.exe
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\States-CardGame\States-CardGame\bin\Debug\netcoreapp3.1\States-CardGame.deps.json
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\States-CardGame\States-CardGame\bin\Debug\netcoreapp3.1\States-CardGame.runtimeconfig.json
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\States-CardGame\States-CardGame\bin\Debug\netcoreapp3.1\States-CardGame.runtimeconfig.dev.json
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\States-CardGame\States-CardGame\bin\Debug\netcoreapp3.1\States-CardGame.dll
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\States-CardGame\States-CardGame\bin\Debug\netcoreapp3.1\States-CardGame.pdb
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\States-CardGame\States-CardGame\obj\Debug\netcoreapp3.1\States-CardGame.csproj.AssemblyReference.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\States-CardGame\States-CardGame\obj\Debug\netcoreapp3.1\States_CardGame.Form1.resources
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\States-CardGame\States-CardGame\obj\Debug\netcoreapp3.1\States_CardGame.Properties.Resources.resources
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\States-CardGame\States-CardGame\obj\Debug\netcoreapp3.1\States-CardGame.csproj.GenerateResource.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\States-CardGame\States-CardGame\obj\Debug\netcoreapp3.1\States-CardGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\States-CardGame\States-CardGame\obj\Debug\netcoreapp3.1\States-CardGame.AssemblyInfoInputs.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\States-CardGame\States-CardGame\obj\Debug\netcoreapp3.1\States-CardGame.AssemblyInfo.cs
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\States-CardGame\States-CardGame\obj\Debug\netcoreapp3.1\States-CardGame.csproj.CoreCompileInputs.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\States-CardGame\States-CardGame\obj\Debug\netcoreapp3.1\States-CardGame.dll
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\States-CardGame\States-CardGame\obj\Debug\netcoreapp3.1\States-CardGame.pdb
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\States-CardGame\States-CardGame\obj\Debug\netcoreapp3.1\States-CardGame.genruntimeconfig.cache
